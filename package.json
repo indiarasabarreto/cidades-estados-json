@@ -1,0 +1,11 @@
+{
+  "name": "cidades-estados-json",
+  "version": "1.0.0",
+  "description": "Desafio IGTI (Cidades-Estados-json)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Indiara Sá Barreto",
+  "license": "ISC"
+}
